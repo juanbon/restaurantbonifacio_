@@ -1,0 +1,3 @@
+
+$this->load->library('fpdf');
+define('FPDF_FONTPATH','path/absoluto/al/directorio/font'); //si lo defines en el config, podria ser asi: BASEPATH."application/libraries/font/"

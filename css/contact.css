@@ -1,0 +1,18 @@
+
+
+/* Overlay */
+#contact-overlay {background-color:#000 }
+
+/* Container */
+#contact-container {font-family:Arial; text-align:left; width:450px;}
+#contact-container .contact-content {background-color:#E7E5E6; height:40px;}
+#contact-container h1 {font-size:16px; line-height:20px; margin:0; padding:0 0 6px 12px; text-align:left;}
+#contact-container .contact-loading { height:55px; margin:-14px 0 0 190px; padding:0; position:absolute; width:54px; z-index:8000;}
+#contact-container .contact-message {text-align:center;}
+#contact-container br {clear:both;}
+#contact-container form {width:0px;margin:0; padding:0;}
+#contact-container label {clear:left; display:block; float:left; font-weight:bold; padding-right:4px; text-align:right; width:100px;}
+#contact-container .contact-input {background:#eee; border:1px solid #fff; font-family:Arial; float:left; padding:2px; margin:2px; width:300px;}
+#contact-container .contact-cc {cursor:default; font-size:14px; vertical-align:top;}
+#contact-container .contact-top {background-color:#BCC5CC; height:22px; margin:0; padding-left:5px;color:black}
+#contact-container a.modal-close {color:black;font-size:18px; font-weight:bold; position:absolute; text-decoration:none; right:8px; top:0px;}
